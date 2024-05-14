@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/800291038.svg)](https://zenodo.org/doi/10.5281/zenodo.11192091)
 
-# [Climate extremes and natural disasters]
+# Climate extremes and natural disasters
 
 Welcome to the **[Climate extremes and natural disasters]** repository, an integral part of ESIIL and Earth Lab's Forest Carbon Codefest. This repository is the central hub for our team, encompassing our project overview, team member information, codebase, and more...
 
