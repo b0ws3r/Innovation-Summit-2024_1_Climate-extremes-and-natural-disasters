@@ -1,7 +1,4 @@
 [![DOI](https://zenodo.org/badge/800291038.svg)](https://zenodo.org/doi/10.5281/zenodo.11192091)
-Hello!
-
-Hey! 
 
 # [Your Team Name]
 
