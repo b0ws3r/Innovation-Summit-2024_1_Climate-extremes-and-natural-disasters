@@ -7,7 +7,8 @@ Welcome to the **[Climate extremes and natural disasters]** repository, an integ
 #practice edit
 
 ## Our Project
-[Provide a brief overview of your project here.
+How can we better predict climate extremes and natural disasters and their impacts?
+
 
 ## Documentation
 - Access detailed documentation on our [GitHub Pages site](https://your-gh-pages-url/).
@@ -16,7 +17,14 @@ Welcome to the **[Climate extremes and natural disasters]** repository, an integ
 ## Group Members
 - Member 1: Brief description
 - Member 2: Brief description
-- ...
+
+  ---
+  - **Name:** Missy Westland
+  - **Pronouns:** She/Her
+  - **Expertise:** Software Engineering, Machine Learning, Atmospheric Science, Data Science
+  - **Environmental Data Science Superpower:**: Software Engineering, ML/AI, Databases,   
+  - **Reflection on Polarities Exercise:**: External processor sorry for talking to myself constantly
+
 - [Link to more detailed bios or profiles if available and desired.]
 
 ## Code Repository Structure
